@@ -1,2 +1,8 @@
 # Bonjour.TP1
-Ce TP est un exercice de prise en main Git & GitHub
+
+Ce TP est un exercice de prise en main Git \& GitHub
+
+Modification effectuée en local par Berber
+
+
+
